@@ -1,4 +1,4 @@
-# Notes API - Ktor example
+# Notes API - [Ktor](https://ktor.io/) example
 
 ## Check env variables defaults
 
